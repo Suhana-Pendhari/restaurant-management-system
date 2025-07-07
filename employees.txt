@@ -1,0 +1,10 @@
+1,Suhana Pendhari,Owner,30000,1111111111
+2,Rihana Pendhari,Chef,20000,2222222222
+3,Aman Pendhari,Waiter,2000,3333333333
+4,Mirasab Pendhari,Manager,40000,4444444444
+5,Atharv Sankpal,Chef,30000,5555555555
+6,Tony Stark,Waiter,10000,6666666666
+7,Shinchan Nohara,Sous Chef,50000,7777777777
+8,Captain Jack Sparrow,Dishwasher,1000,8888888888
+9,Farhan Ibushe,Cashier,20000,9999999999
+10,Nidhishree Pujari,Chef,30000,0000000000

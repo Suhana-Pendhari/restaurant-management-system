@@ -1,0 +1,233 @@
+Order Details - Sun Oct 27 12:09:55 2024
+Customer ID: 1
+Customer Name: Suhana Pendhari
+                Idli x2
+               Pulav x1
+             Noodles x1
+Total Bill: Rs.210.00
+----------------------------------------
+
+Order Details - Tue Oct 29 12:11:12 2024
+Customer ID: 2
+Customer Name: Rihana Pendhari
+             Parotta x1
+                Vada x1
+Total Bill: Rs.60.00
+----------------------------------------
+
+Order Details - Thu Oct 31 12:12:24 2024
+Customer ID: 3
+Customer Name: Mirasab Pendhari
+             Biryani x1
+              Dabeli x2
+Total Bill: Rs.110.00
+----------------------------------------
+
+Order Details - Fri Nov 01 12:14:17 2024
+Customer ID: 4
+Customer Name: Aman Pendhari
+             Biryani x1
+               Pizza x1
+              Maggie x2
+             Parotta x1
+Total Bill: Rs.504.00
+----------------------------------------
+
+Order Details - Sun Nov 03 12:16:17 2024
+Customer ID: 5
+Customer Name: Nidhishree Pujari
+              Maggie x2
+Total Bill: Rs.80.00
+----------------------------------------
+
+Order Details - Tue Nov 05 12:17:37 2024
+Customer ID: 6
+Customer Name: Sanchita Kamble
+               Pasta x3
+             Parotta x1
+Total Bill: Rs.195.00
+----------------------------------------
+
+Order Details - Thu Nov 07 12:20:45 2024
+Customer ID: 7
+Customer Name: Vaishnavi Patil
+                Vada x2
+                Upma x4
+                Idli x1
+Total Bill: Rs.108.00
+----------------------------------------
+
+Order Details - Sun Nov 10 12:23:52 2024
+Customer ID: 8
+Customer Name: Manasi Jadhav
+              Maggie x1
+              Samosa x1
+                Vada x1
+Total Bill: Rs.70.00
+----------------------------------------
+
+Order Details - Fri Nov 15 12:25:01 2024
+Customer ID: 9
+Customer Name: Jiya Momin
+             Biryani x1
+Total Bill: Rs.80.00
+----------------------------------------
+
+Order Details - Wed Nov 20 12:26:08 2024
+Customer ID: 10
+Customer Name: Farhan Ibushe
+                Idli x2
+                Dosa x1
+Total Bill: Rs.110.00
+----------------------------------------
+
+Order Details - Mon Nov 25 12:27:23 2024
+Customer ID: 11
+Customer Name: Gangadhar Chougule
+                Upma x1
+             Parotta x1
+                Poha x1
+              Dabeli x1
+Total Bill: Rs.82.00
+----------------------------------------
+
+Order Details - Wed Nov 27 12:28:19 2024
+Customer ID: 12
+Customer Name: Atharv Sankpal
+               Pizza x1
+Total Bill: Rs.299.00
+----------------------------------------
+
+Order Details - Wed Nov 27 12:29:50 2024
+Customer ID: 13
+Customer Name: Tony Stark
+             Noodles x2
+             Parotta x1
+Total Bill: Rs.145.00
+----------------------------------------
+
+Order Details - Wed Nov 27 12:31:18 2024
+Customer ID: 14
+Customer Name: Captain Jack Sparrow
+               Pizza x1
+             Biryani x1
+Total Bill: Rs.379.00
+----------------------------------------
+
+Order Details - Wed Nov 27 12:32:38 2024
+Customer ID: 15
+Customer Name: Shinchan Nohara
+              Maggie x1
+Total Bill: Rs.40.00
+----------------------------------------
+
+Order Details - Thu Nov 28 12:33:16 2024
+Customer ID: 16
+Customer Name: Toru Kazama
+             Noodles x1
+Total Bill: Rs.50.00
+----------------------------------------
+
+Order Details - Wed Nov 27 17:57:45 2024
+Customer ID: 17
+Customer Name: Bear Grills
+              Maggie x1
+                Upma x1
+             Biryani x2
+Total Bill: Rs.212.00
+----------------------------------------
+
+Order Details - Wed Nov 27 17:58:09 2024
+Customer ID: 1
+Customer Name: Suhana Pendhari
+                Dosa x1
+Total Bill: Rs.50.00
+----------------------------------------
+
+Order Details - Wed Nov 27 18:06:29 2024
+Customer ID: 18
+Customer Name: Mirasab Rajesab Pendhari
+                Idli x1
+             Parotta x1
+                Dosa x4
+Total Bill: Rs.275.00
+----------------------------------------
+
+Order Details - Wed Nov 27 18:06:49 2024
+Customer ID: 1
+Customer Name: Suhana Pendhari
+                Poha x1
+             Biryani x1
+Total Bill: Rs.90.00
+----------------------------------------
+
+Order Details - Wed Nov 27 18:19:47 2024
+Customer ID: 19
+Customer Name: Himavari Nohara
+                Idli x0
+                 Tea x4
+Total Bill: Rs.40.00
+----------------------------------------
+
+Order Details - Wed Nov 27 18:20:07 2024
+Customer ID: 1
+Customer Name: Suhana Pendhari
+              Samosa x1
+             Noodles x1
+Total Bill: Rs.65.00
+----------------------------------------
+
+Order Details - Wed Nov 27 19:17:16 2024
+Customer ID: 22
+Customer Name: Suhana Pendhari
+                Poha x1
+              Samosa x1
+               Pizza x2
+Total Bill: Rs.623.00
+----------------------------------------
+
+Order Details - Wed Nov 27 19:17:55 2024
+Customer ID: 1
+Customer Name: Suhana Pendhari
+                Poha x2
+                Idli x1
+Total Bill: Rs.50.00
+----------------------------------------
+
+Order Details - Wed Nov 27 19:37:24 2024
+Customer ID: 23
+Customer Name: Tony Stark
+                Idli x1
+               Pizza x1
+Total Bill: Rs.329.00
+----------------------------------------
+
+Order Details - Wed Nov 27 19:37:44 2024
+Customer ID: 1
+Customer Name: Suhana Pendhari
+                Dosa x1
+               Pasta x1
+Total Bill: Rs.100.00
+----------------------------------------
+
+Order Details - Thu Nov 28 14:16:00 2024
+Customer ID: 1
+Customer Name: Suhana Pendhari
+                 Tea x1
+Total Bill: Rs.10.00
+----------------------------------------
+
+Order Details - Fri Nov 29 05:14:22 2024
+Customer ID: 24
+Customer Name: Harry Potter
+           Veg Pulav x1
+                 Tea x1
+Total Bill: Rs.60.00
+----------------------------------------
+
+Order Details - Mon Jul 07 13:59:42 2025
+Customer ID: 1
+Customer Name: Suhana Pendhari
+                Idli x1
+Total Bill: Rs.30.00
+----------------------------------------

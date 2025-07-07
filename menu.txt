@@ -1,0 +1,10 @@
+Idli 30.00 41
+Vada 15.00 56
+Samosa 15.00 61
+Dosa 50.00 51
+Pizza 299.00 44
+Maggie 40.00 73
+Noodles 50.00 45
+Pasta 50.00 46
+Biryani 80.00 43
+Tea 10.00 34
