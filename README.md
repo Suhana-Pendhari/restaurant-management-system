@@ -104,8 +104,8 @@ To implement a user-friendly restaurant management system using C++ that allows 
 ## 👨‍💻 Contributors
 
 - [Suhana Pendhari](https://github.com/Suhana-Pendhari)
+- [Farhan Ibushe](https://github.com/Farhan6768)
 - [Gangadhar Chougule](https://github.com/Gangadhar-chougule)
-- Farhan Ibushe
 
 ---
 
